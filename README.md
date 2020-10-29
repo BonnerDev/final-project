@@ -1,4 +1,4 @@
-##title to be added later 
+### Children in out of home care
 
 ## Methodology: 
 
@@ -10,13 +10,15 @@
 
 4. Create SQL database and import data into database, create schema of tables and show the links if any.
 
-5. Create visualisations using a mixture of Plotly, 
+5. Create visualisations using a mixture of Plotly, Matplotlib and D3.js
+
+6. Use Scikit-Learn to predict future numbers of children in out of home care using historical data from 2008 to 2017. 
 
 6. Serve up the app using Heroku. 
 
-6. Javascript files interact with the data via Heroku and create visualisations.
+7. Javascript files interact with the data via Heroku and create visualisations.
 
-7. FInally, JS is linking html and CSS to format the visualisations.
+8. FInally, JS is linking html and CSS to format the visualisations.
 
 ## Ideas for Visualizing
 1. I want to show the differences in Non Indigenous and Indigenous children in out of home care throughout WA, from 2008 to 2017. I will visualise this using a double bar graph with one colour for Indigenous and one for Non Indigenous. Then show some predictive analysis on where we might see these numbers going based on histroical data. 
