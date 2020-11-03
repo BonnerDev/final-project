@@ -36,3 +36,6 @@ https://catalogue.data.wa.gov.au/dataset/children-in-the-ceos-care-on-30-june-20
 
 Data Source #3 (All of Australia)
 https://www.aihw.gov.au/reports/child-protection/child-protection-australia-children-in-the-child-protection-system/data
+
+Data source #4 (census data for WA 2016)
+https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/5?opendocument
