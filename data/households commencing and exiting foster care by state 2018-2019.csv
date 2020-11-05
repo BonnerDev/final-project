@@ -1,0 +1,13 @@
+﻿Households,NSW(a),Vic,Qld(b),WA,SA,Tas(c),ACT,NT(d),Total
+Households commencing foster care,0,458,365,232,214,54,36,91,1450
+Households exiting foster care,0,721,408,254,142,75,5,75,1680
+Households commencing relative/kinship care,0,3261,554,814,461,123,59,143,5415
+Households exiting relative/kinship care,0,2787,524,508,256,140,24,106,4345
+(a) New South Wales implemented a new client management system in 2017-18 and some data are still unavailable for reporting. Data unavailable includes households commencing and exiting care.,,,,,,,,,
+"(b) Queensland data in this table do not include provisionally approved carer households that have started providing foster or relative/kinship care, but are yet to receive approval as a foster or relative/kinship carer. Queensland data produced from the CP NMDS based on nationally agreed specifications may not match Queensland figures published elsewhere.",,,,,,,,,
+"(c) In Tasmania, delays in administrative processes can result in carers being maintained as approved in the system when they are no longer accepting child placements. For the purpose of reporting households exiting foster or relative/kinship care, if no termination date is recorded, a foster or relative/kinship carer household that has not had a placement in 12 months is considered to have exited.",,,,,,,,,
+"(d) In 2018-19, the Northern Territory has redefined the counting methodology for kinship care. As a result kinship care that has previously been counted under the 'foster care' category has been separated into foster and kinship to provide a more accurate reflection of the care provided.",,,,,,,,,
+Notes,,,,,,,,,
+1. This table excludes respite placements.,,,,,,,,,
+Source: AIHW Child Protection Collection 2019.,,,,,,,,,
+"Table 7.2: Households commencing and exiting care, by state or territory, 2018–19 (number)",,,,,,,,,

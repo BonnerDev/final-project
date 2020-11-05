@@ -1,0 +1,181 @@
+﻿id,Indicator,AACC Region,Aboriginality,Age Group,Gender,Count,Year
+1,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,0,2008
+2,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,91,2008
+3,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,34,2008
+4,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,69,2008
+5,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,94,2008
+6,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,24,2008
+7,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1420,2008
+8,Children in care,Perth,Aboriginal,0 - 17 Years,All,667,2008
+9,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,8,2008
+10,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,86,2008
+11,Children in care,Southern,NonAboriginal,0 - 17 Years,All,174,2008
+12,Children in care,Southern,Aboriginal,0 - 17 Years,All,84,2008
+13,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,1220,2008
+14,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,1817,2008
+15,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,62,2008
+16,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,100,2008
+17,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,95,2008
+18,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,3,2008
+19,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,119,2009
+20,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,0,2009
+21,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,76,2009
+22,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,35,2009
+23,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,89,2009
+24,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,20,2009
+25,Children in care,Perth,Aboriginal,0 - 17 Years,All,712,2009
+26,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1405,2009
+27,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,7,2009
+28,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,89,2009
+29,Children in care,Southern,NonAboriginal,0 - 17 Years,All,206,2009
+30,Children in care,Southern,Aboriginal,0 - 17 Years,All,105,2009
+31,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,1876,2009
+32,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,1322,2009
+33,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,87,2009
+34,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,124,2009
+35,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,116,2009
+36,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,5,2009
+37,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,0,2010
+38,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,122,2010
+39,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,33,2010
+40,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,82,2010
+41,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,90,2010
+42,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,29,2010
+43,Children in care,Perth,Aboriginal,0 - 17 Years,All,743,2010
+44,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1403,2010
+45,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,5,2010
+46,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,103,2010
+47,Children in care,Southern,NonAboriginal,0 - 17 Years,All,208,2010
+48,Children in care,Southern,Aboriginal,0 - 17 Years,All,113,2010
+49,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,1891,2010
+50,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,1367,2010
+51,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,82,2010
+52,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,126,2010
+53,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,131,2010
+54,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,6,2010
+55,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,122,2011
+56,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,3,2011
+57,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,49,2011
+58,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,108,2011
+59,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,110,2011
+60,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,36,2011
+61,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1474,2011
+62,Children in care,Perth,Aboriginal,0 - 17 Years,All,830,2011
+63,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,12,2011
+64,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,103,2011
+65,Children in care,Southern,NonAboriginal,0 - 17 Years,All,224,2011
+66,Children in care,Southern,Aboriginal,0 - 17 Years,All,115,2011
+67,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,2017,2011
+68,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,1491,2011
+69,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,76,2011
+70,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,105,2011
+71,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,143,2011
+72,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,9,2011
+73,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,0,2012
+74,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,107,2012
+75,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,54,2012
+76,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,124,2012
+77,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,137,2012
+78,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,53,2012
+79,Children in care,Perth,Aboriginal,0 - 17 Years,All,947,2012
+80,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1577,2012
+81,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,3,2012
+82,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,102,2012
+83,Children in care,Southern,NonAboriginal,0 - 17 Years,All,215,2012
+84,Children in care,Southern,Aboriginal,0 - 17 Years,All,128,2012
+85,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,2132,2012
+86,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,1629,2012
+87,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,85,2012
+88,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,98,2012
+89,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,145,2012
+90,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,5,2012
+91,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,105,2013
+92,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,2,2013
+93,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,150,2013
+94,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,47,2013
+95,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,134,2013
+96,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,57,2013
+97,Children in care,Perth,Aboriginal,0 - 17 Years,All,1038,2013
+98,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1597,2013
+99,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,5,2013
+100,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,121,2013
+101,Children in care,Southern,NonAboriginal,0 - 17 Years,All,218,2013
+102,Children in care,Southern,Aboriginal,0 - 17 Years,All,179,2013
+103,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,2161,2013
+104,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,1727,2013
+105,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,88,2013
+106,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,81,2013
+107,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,147,2013
+108,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,3,2013
+109,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,112,2014
+110,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,0,2014
+111,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,37,2014
+112,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,148,2014
+113,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,124,2014
+114,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,52,2014
+115,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1664,2014
+116,Children in care,Perth,Aboriginal,0 - 17 Years,All,1125,2014
+117,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,3,2014
+118,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,169,2014
+119,Children in care,Southern,NonAboriginal,0 - 17 Years,All,252,2014
+120,Children in care,Southern,Aboriginal,0 - 17 Years,All,204,2014
+121,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,2144,2014
+122,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,2093,2014
+123,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,84,2014
+124,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,81,2014
+125,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,178,2014
+126,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,4,2014
+127,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,144,2015
+128,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,0,2015
+129,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,23,2015
+130,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,135,2015
+131,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,142,2015
+132,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,56,2015
+133,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1691,2015
+134,Children in care,Perth,Aboriginal,0 - 17 Years,All,1187,2015
+135,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,7,2015
+136,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,204,2015
+137,Children in care,Southern,NonAboriginal,0 - 17 Years,All,274,2015
+138,Children in care,Southern,Aboriginal,0 - 17 Years,All,202,2015
+139,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,2338,2015
+140,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,2165,2015
+141,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,129,2015
+142,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,111,2015
+143,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,195,2015
+144,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,3,2015
+145,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,158,2016
+146,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,0,2016
+147,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,107,2016
+148,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,19,2016
+149,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,190,2016
+150,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,59,2016
+151,Children in care,Perth,Aboriginal,0 - 17 Years,All,1253,2016
+152,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1718,2016
+153,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,202,2016
+154,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,9,2016
+155,Children in care,Southern,Aboriginal,0 - 17 Years,All,239,2016
+156,Children in care,Southern,NonAboriginal,0 - 17 Years,All,271,2016
+157,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,2480,2016
+158,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,2178,2016
+159,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,142,2016
+160,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,101,2016
+161,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,189,2016
+162,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,1,2016
+163,Children in care,East Kimberley,Aboriginal,0 - 17 Years,All,163,2017
+164,Children in care,East Kimberley,NonAboriginal,0 - 17 Years,All,0,2017
+165,Children in care,Goldfields-Esperance,Aboriginal,0 - 17 Years,All,117,2017
+166,Children in care,Goldfields-Esperance,NonAboriginal,0 - 17 Years,All,31,2017
+167,Children in care,Midwest-Gascoyne,Aboriginal,0 - 17 Years,All,198,2017
+168,Children in care,Midwest-Gascoyne,NonAboriginal,0 - 17 Years,All,46,2017
+169,Children in care,Perth,Aboriginal,0 - 17 Years,All,1367,2017
+170,Children in care,Perth,NonAboriginal,0 - 17 Years,All,1731,2017
+171,Children in care,Pilbara,Aboriginal,0 - 17 Years,All,197,2017
+172,Children in care,Pilbara,NonAboriginal,0 - 17 Years,All,12,2017
+173,Children in care,Southern,Aboriginal,0 - 17 Years,All,222,2017
+174,Children in care,Southern,NonAboriginal,0 - 17 Years,All,281,2017
+175,Children in care,Western Australia,Aboriginal,0 - 17 Years,All,2603,2017
+176,Children in care,Western Australia,NonAboriginal,0 - 17 Years,All,2192,2017
+177,Children in care,Wheatbelt,Aboriginal,0 - 17 Years,All,163,2017
+178,Children in care,Wheatbelt,NonAboriginal,0 - 17 Years,All,90,2017
+179,Children in care,West Kimberley,Aboriginal,0 - 17 Years,All,176,2017
+180,Children in care,West Kimberley,NonAboriginal,0 - 17 Years,All,1,2017
