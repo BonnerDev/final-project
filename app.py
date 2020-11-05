@@ -1,5 +1,4 @@
-from flask import Flask, render_template
-from flask import Flask, jsonify
+from flask import Flask, render_template, jsonify
 from sqlalchemy import create_engine
 import pandas as pd
 import json
@@ -16,7 +15,7 @@ conn=engine.connect()
 @app.route("/data")
 def datatest():
     data = pd.read_sql("select * from placement_type", conn)
-    print(data)
+    #print(data)
     datatojson = data.to_json(orient = "index")
     parsed = json.loads(datatojson)
     return parsed
