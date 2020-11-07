@@ -20,5 +20,21 @@ def datatest():
     parsed = json.loads(datatojson)
     return parsed
 
+@app.route("/")
+def home():
+    return render_template('index.html')
+
+@app.route("/buttons")
+def buttons():
+    return render_template('buttons.html')
+
+@app.route("/charts")
+def charts():
+    return render_template('charts.html')
+
+@app.route("/tables")
+def tables():
+    return render_template('tables.html')
+
 if __name__ == "__main__":
     app.run(debug=True)
