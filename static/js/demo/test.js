@@ -1,11 +1,11 @@
-console.log("hello")
 
-var data;
-
-d3.json("/data",(test)=>{
-    console.log(test)
-    Object.values(test).forEach
-    ((element) => {
-        console.log(element.placement_type)
-    });
-});
+// d3.json("/data",(test)=>{
+//     console.log(test)
+//     Object.values(test).forEach
+//     ((element) => {
+//         var placement = element.placement_type
+//         var start = element.start_date
+//         var end = element.end_date
+//         console.log(end)
+//     });
+// });
