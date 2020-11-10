@@ -40,5 +40,9 @@ def tables():
 def test():
     return render_template('test.html')
 
+@app.route("/ohc")
+def cohc():
+    return render_template('nococh.html')
+
 if __name__ == "__main__":
     app.run(debug=True)
