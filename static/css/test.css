@@ -46,14 +46,14 @@
 	-ms-transform: translate(-50%, -50%);
 }
 
-.text:hover + .amount {
+.img1-wrap:hover .amount {
     display:block;
     white-space: nowrap; 
 	color: white;
-	font-size: 30px;
-	position: absolute;
+	font-size: 15px;
+	position: relative;
 	overflow: hidden;
 	top: 10%;
-	left: 50%;
+	left: 20%;
     display:block;
 }

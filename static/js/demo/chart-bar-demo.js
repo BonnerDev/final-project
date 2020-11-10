@@ -11,6 +11,7 @@ d3.json("/data",(test)=>{
       var end = element.end_date
       Plotly.newPlot("myAreaChart",placement)
       //console.log(end)
+    });
   });
   // var ctx = document.getElementById("myAreaChart");
   // var myBarChart = new Chart(ctx, {
@@ -89,11 +90,11 @@ d3.json("/data",(test)=>{
       //       var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
       //       return datasetLabel + number_format(tooltipItem.yLabel);
       //     }
-        }
-      },
-    }
-  });
-});
+//         }
+//       },
+//     }
+//   });
+// });
 
 // Bar Chart Example
 // var ctx = document.getElementById("myAreaChart");
