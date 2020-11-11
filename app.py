@@ -42,7 +42,7 @@ def test():
 
 @app.route("/ohc")
 def cohc():
-    return render_template('nococh.html')
+    return render_template('noohc.html')
 
 if __name__ == "__main__":
     app.run(debug=True)

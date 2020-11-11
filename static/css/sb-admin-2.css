@@ -682,6 +682,36 @@ pre code {
   max-width: 100%;
 }
 
+@keyframes example {
+  from {top: 0px;}
+  to {top: 200px; background-color:;}
+}
+
+.suit {
+  position: relative;
+  animation-name: example;
+  animation-delay: 6s; 
+  animation-duration: 10s;  
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+.hourglass {
+  animation-name:hour;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes hour {
+  from {
+      transform:rotate(0deg);
+  }
+  to {
+      transform:rotate(360deg);
+  }
+}
+
 .col-1 {
   flex: 0 0 8.33333%;
   max-width: 8.33333%;
