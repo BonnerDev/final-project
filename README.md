@@ -1,4 +1,6 @@
 ## Children in out of home care
+### Introduction: 
+My idea for my final project is to collect, analyse and visualize data on children in out of home care in Australia. I am looking to make an easily digestable, infographic type website with easy to read graphs and statistics for those who are looking into either fostering or getting to know more about children in out of home care. I would like to make this open for any NFP agencies to be able to use my visualisations for their cause if they so wish.  
 
 ### Methodology: 
 
@@ -10,19 +12,15 @@
 
 4. Create SQL database and import data into database, create schema of tables and show the links if any.
 
-5. Create visualisations using a mixture of Plotly, Matplotlib and D3.js
+5. Create impactful visualisations using a mixture of Plotly, Matplotlib and static images with text overlay. 
 
 6. Use Scikit-Learn to predict future numbers of children in out of home care using historical data from 2008 to 2017. 
 
-6. Serve up the app using Heroku. 
-
-7. Javascript files interact with the data via Heroku and create visualisations.
-
-8. FInally, JS is linking html and CSS to format the visualisations.
+6. Serve up the app using git hub pages. 
 
 ### Ideas for Visualizing
 1. I want to show the differences in Non Indigenous and Indigenous children in out of home care throughout WA, from 2008 to 2017. I will visualise this using a plotly grouped bar graph with one colour for Indigenous and one for Non Indigenous. Then show some predictive analysis on where we might see these numbers going based on histroical data. 
-2. data from 2012 to 2013 showing the relationship to their carer based on Inigenous or not using double bar chart and group by type of carer
+2. data from 2012 to 2013 showing the relationship to their carer based on Indigenous or not using double bar chart and group by type of carer
 3. data from 2012 to 2013 showing length of out of home care in relation to how many placements they have been in, show what percentage of them in each bracket of length of out of home care, show what is the average number of placements for each length of out of home care 
 4. Children receiving child protection services, by age group, Indigenous status and state or territory. 
 
