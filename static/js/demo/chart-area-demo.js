@@ -11,17 +11,12 @@ d3.json("/data",(test)=>{
       var end = element.end_date
 // Area Chart Example
       var ctx = document.getElementById("myAreaChart");
-      //var trace = {
-      //  x:
-      //}
-      //var data = [trace];
-      //Plotly.newPlot(ctx,data,layout);
       var myLineChart = new Chart(ctx, {
       type: 'line',
       data: {
         labels: ["Kinship","Out of Home"],
         datasets: [{
-          label: "number in placement type",
+          label: "element.placement_type",
           lineTension: 0.3,
           backgroundColor: "rgba(78, 115, 223, 0.05)",
           borderColor: "rgba(78, 115, 223, 1)",
