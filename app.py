@@ -1,10 +1,10 @@
 from flask import Flask, render_template, jsonify
 from sqlalchemy import create_engine
 import pandas as pd
-import json
-from config import username
-from config import password
-from config import database
+# import json
+# from config import username
+# from config import password
+# from config import database
 
 app = Flask(__name__)
 
