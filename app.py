@@ -8,19 +8,19 @@ from config import database
 
 app = Flask(__name__)
 
-#create connection to databse
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
-db = SQLAlchemy(app)
-# engine = create_engine(f"postgresql://{username}:{password}@localhost:5432/{database}")
-# conn=engine.connect()
+# #create connection to databse
+# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
+# db = SQLAlchemy(app)
+# # engine = create_engine(f"postgresql://{username}:{password}@localhost:5432/{database}")
+# # conn=engine.connect()
 
-@app.route("/data")
-def datatest():
-    data = pd.read_sql("select * from placement_type", conn)
-    #print(data)
-    datatojson = data.to_json(orient = "index")
-    parsed = json.loads(datatojson)
-    return parsed
+# @app.route("/data")
+# def datatest():
+#     data = pd.read_sql("select * from placement_type", conn)
+#     #print(data)
+#     datatojson = data.to_json(orient = "index")
+#     parsed = json.loads(datatojson)
+#     return parsed
 
 @app.route("/")
 def home():
