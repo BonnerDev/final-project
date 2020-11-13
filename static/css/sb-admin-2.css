@@ -6444,6 +6444,14 @@ button.bg-secondary:focus {
   background-color: #1cc88a !important;
 }
 
+.bg-blah {
+  background-color: #e28903 !important;
+}
+
+.bg-new {
+  background-color: #7a17ca !important;
+}
+
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
