@@ -1270,6 +1270,19 @@ pre code {
     flex: 0 0 50%;
     max-width: 50%;
   }
+
+  .col-lg-test {
+    flex: 1 1 auto;
+    max-width: 50%;
+  }
+
+  .col-lg-test{
+  position: relative;
+  width: 100%;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+}
+
   .col-lg-7 {
     flex: 0 0 58.33333%;
     max-width: 58.33333%;
@@ -7773,7 +7786,9 @@ button.bg-dark:focus {
   margin-right: 1.5rem !important;
 }
 
-.mb-4,
+.mb-4{
+  margin-bottom: 3.5rem !important;
+}
 .my-4 {
   margin-bottom: 1.5rem !important;
 }
@@ -7883,7 +7898,9 @@ button.bg-dark:focus {
   padding: 1rem !important;
 }
 
-.pt-3,
+.pt-3{
+  padding-top: 1rem !important;
+}
 .py-3 {
   padding-top: 1rem !important;
 }

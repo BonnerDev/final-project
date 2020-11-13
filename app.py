@@ -34,14 +34,6 @@ def buttons():
 def charts():
     return render_template('links.html')
 
-@app.route("/tables")
-def tables():
-    return render_template('tables.html')
-
-@app.route("/test")
-def test():
-    return render_template('test.html')
-
 @app.route("/ohc")
 def cohc():
     return render_template('noohc.html')
