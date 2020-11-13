@@ -712,14 +712,14 @@ pre code {
   }
 }
 
-@import url('https://fonts.googleapis.com/css?family=Arima+Madurai:300');
+
 *,
 *::before,
 *::after {
 	box-sizing: border-box;
 }
 
-.birdhead {
+/* .birdhead {
 	font-family: 'Arima Madurai', cursive;
 	color: black;
 	font-size: 4rem;
@@ -727,9 +727,9 @@ pre code {
 	text-shadow: 0px 1px 1px rgba(255,255,255,0.6);
 	position: relative;
 	z-index: 3;
-}
+} */
 
-.container {
+.containerbird {
 	z-index: 1;
 	position: relative;
 	overflow: hidden;
@@ -738,7 +738,7 @@ pre code {
 	justify-content: center;
 	// min-height: 100vh;
   min-height: 35rem;
-  background-image: linear-gradient(to bottom,  rgba(255,168,76,0.6) 0%,rgba(255,123,13,0.6) 100%), url('https://images.unsplash.com/photo-1446824505046-e43605ffb17f');
+  background-image: linear-gradient(to bottom,  rgba(255,168,76,0.6) 0%,rgba(255,123,13,0.6) 100%);
 	background-blend-mode: soft-light;
 	background-size: cover;
 	background-position: center center;
@@ -11431,6 +11431,7 @@ body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
 
+
 .flex-container {
 	position: relative;
 	display: flex;
@@ -11439,11 +11440,15 @@ body.sidebar-toggled footer.sticky-footer {
 .img1-wrap {
 	position: relative;
 	overflow: hidden;
-	width: 200px;
+	width: auto;
 }
 
 .image {
-	width: 100%;
+	width: auto;
+}
+
+.amount {
+  display: none;
 }
 
 .overlay {
@@ -11457,7 +11462,7 @@ body.sidebar-toggled footer.sticky-footer {
 	/*width: 100%;*/
 	height: 20%;
   transition: .5s ease;
-  opacity: 0.75;
+  opacity:0.75;
 }
 
 .img1-wrap:hover .overlay {
@@ -11474,4 +11479,16 @@ body.sidebar-toggled footer.sticky-footer {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
+}
+
+.img1-wrap:hover .amount {
+  display:block;
+  white-space: nowrap; 
+	color: white;
+	font-size: 15px;
+	position: relative;
+	overflow: hidden;
+	top: 10%;
+	left: 20%;
+  display:block;
 }
