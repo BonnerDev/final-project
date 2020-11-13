@@ -30,9 +30,9 @@ def home():
 def buttons():
     return render_template('buttons.html')
 
-@app.route("/charts")
+@app.route("/links")
 def charts():
-    return render_template('charts.html')
+    return render_template('links.html')
 
 @app.route("/tables")
 def tables():
