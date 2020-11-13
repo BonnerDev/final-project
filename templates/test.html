@@ -1,45 +1,152 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-
-  <title>Bonner Svensson</title>
-
-  <!-- Custom fonts for this template-->
-  <link href="../static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-
   <!-- Custom styles for this template-->
-  <link href="../static/css/test.css" rel="stylesheet">
+<link href="../static/css/test.css" rel="stylesheet">
 
-</head>
-<body id="page-top">
+<body>
     <div class="container">
-	
-        <h1>SVG Animated Birds</h1>
-        
-        <div class="bird-container bird-container--one">
-            <div class="bird bird--one"></div>
+        <header>
+          <h1>Pure <strong>CSS</strong> Bars</h1>
+          <p>...a growing bars chart.</p>
+        </header>
+        <div class="chart small-font-size">
+          <div class="bar bar-60 yellow">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face side-1">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face top"></div>
+            <div class="face floor"></div>
+          </div>
+          <div class="bar bar-25 red">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face side-1">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face top"></div>
+            <div class="face floor"></div>
+          </div>
+          <div class="bar bar-35 cyan">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face side-1">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face top"></div>
+            <div class="face floor"></div>
+          </div>
+          <div class="bar bar-80 lime">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face side-1">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face top"></div>
+            <div class="face floor"></div>
+          </div>
         </div>
-        
-        <div class="bird-container bird-container--two">
-            <div class="bird bird--two"></div>
+        <p>Enjoy these Pure <em>CSS</em> Bars, crafted with <em>love</em> and 'ready-to-use'.</p>
+        <div>
+          <input type="radio" name="status" id="status-1" checked>
+          <section class="content">
+            <article>
+              <p>The bar dimensions are based on <em>'em' units</em>, you can <em>resize them with a simple 'font-size'</em> property :)</p>
+              <input type="checkbox" id="double-size" />
+              <div class="chart small-font-size">
+                <div class="bar bar-0 yellow">
+                  <div class="face side-0">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face side-1">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face top"></div>
+                  <div class="face floor"></div>
+                </div>
+              </div>
+              <label for="double-size">Double size</label>
+            </article>
+          </section>
+          <input type="checkbox" id="set-value" name="set-value" />
+          <input type="radio" name="status" id="status-2">
+          <section class="content">
+            <article>
+              <p>To set an animated position use the <em>'bar-n' class</em>, setting <em>the 'n' class parameter</em> form 1 to 100 values.</p>
+              <div class="chart small-font-size">
+                <div class="bar bar-1 lime">
+                  <div class="face side-0">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face side-1">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face top"></div>
+                  <div class="face floor"></div>
+                </div>
+                <div class="bar bar-1-1 cyan">
+                  <div class="face side-0">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face side-1">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face top"></div>
+                  <div class="face floor"></div>
+                </div>
+              </div>
+              <label for="set-value">Set value '85'</label>
+            </article>
+          </section>
+          <input type="radio" name="status" id="status-3">
+          <section class="content">
+            <article>
+              <p>Each bar is a <em>'flexbox item'</em>, so feel free to add as many as you want. Give them a bit of color too, with the custom color classes.</p>
+              <div class="chart small-font-size">
+                <div class="bar bar-0 lime">
+                  <div class="face side-0">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face side-1">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face top"></div>
+                  <div class="face floor"></div>
+                </div>
+                <div class="bar bar-2 cyan">
+                  <div class="face side-0">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face side-1">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face top"></div>
+                  <div class="face floor"></div>
+                </div>
+                <div class="bar bar-1 red">
+                  <div class="face side-0">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face side-1">
+                    <div class="growing-bar"></div>
+                  </div>
+                  <div class="face top"></div>
+                  <div class="face floor"></div>
+                </div>
+              </div>
+            </article>
+          </section>
+          <nav class="legend">
+            <label for="status-1">Tip 1</label>
+            <label for="status-2">Tip 2</label>
+            <label for="status-3">Tip 3</label>
+          </nav>
         </div>
-        
-        <div class="bird-container bird-container--three">
-            <div class="bird bird--three"></div>
-        </div>
-        
-        <div class="bird-container bird-container--four">
-            <div class="bird bird--four"></div>
-        </div>
-        
-    </div>
+      </div> 
     
 </body>
