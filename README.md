@@ -1,6 +1,6 @@
 ## Children in out of home care
 ### Introduction: 
-My idea for my final project is to collect, analyse and visualize data on children in out of home care in Australia. I am looking to make an easily digestable, infographic type website with easy to read graphs and statistics for those who are looking into either fostering and raising awareness. I would like to make this open for any NFP agencies to be able to use my visualisations for their cause if they so wish.  
+My idea for my final project is to collect, analyse and visualize data on children in out of home care in Australia. I am looking to make an easily digestable, infographic type website with easy to read graphs and statistics for those who are looking into either fostering and raising awareness on the actual numbers for children in out of home care in Australia. I would like to make this open for any NFP agencies to be able to use my visualisations for their cause if they so wish.  
 
 ### Methodology: 
 
