@@ -24,6 +24,23 @@ My idea for my final project is to collect, analyse and visualize data on childr
 3. data from 2012 to 2013 showing length of out of home care in relation to how many placements they have been in, show what percentage of them in each bracket of length of out of home care, show what is the average number of placements for each length of out of home care 
 4. Children receiving child protection services, by age group, Indigenous status and state or territory. 
 
+### This project was created using the following:
+PostgreSQL
+Flask
+Heroku
+JavaScript
+jQuery
+Bootstrap
+HTML
+CSS
+Google charts
+Pandas
+Scikit
+SQLalchemy
+Plotly
+Matpltlib
+
+
 ### links to where data has been sourced from
 Data source #1 (QLD)
 https://data.gov.au/dataset/ds-qld-a6fb9c5d-88b5-470e-af25-e9c3539013dc/details?q=children
