@@ -25,20 +25,20 @@ My idea for my final project is to collect, analyse and visualize data on childr
 4. Children receiving child protection services, by age group, Indigenous status and state or territory. 
 
 ### This project was created using the following:
-PostgreSQL
-Flask
-Heroku
-JavaScript
-jQuery
-Bootstrap
-HTML
-CSS
-Google charts
-Pandas
-Scikit
-SQLalchemy
-Plotly
-Matpltlib
+1. PostgreSQL
+2. Flask
+3. Heroku
+4. JavaScript
+5. jQuery
+6. Bootstrap
+7. HTML
+8. CSS
+9. Google charts
+10. Pandas
+11. Scikit
+12. SQLalchemy
+13. Plotly
+14. Matpltlib
 
 
 ### links to where data has been sourced from
